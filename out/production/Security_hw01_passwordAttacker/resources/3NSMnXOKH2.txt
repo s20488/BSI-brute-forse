@@ -1,0 +1,11 @@
+Each line below contains username, salt and hashed password.
+james24_Bhi, 3NSMnXOKH2, 634ac84cb89ef9c6552e5ece4968395ad8e78ee0
+linda24_Bhi, WlwIAbnloy, 2cf8534393c253ebb1fc851079db1c7b1c462722
+sofia24_Bhi, LBgBvWHoHz, 110b811c79868db52d149127f2e6f9a30e165f38
+santiago24_Bhi, rWfzbibaEn, 1675621ff4974a856c8938aeda8235674bca079a
+isabella24_Bhi, UehgwYCjqh, e1e6fa35c51f7216731e775ca0c8293394cc6a5a
+diego24_Bhi, vr-mzW4tHI, 64266afe906e51f609de1691ace2e49699a06364
+robert24_Bhi, nC9k-x49qc, dde851d24af3aab0685ba263ea548ad30e9e7f4b
+mary24_Bhi, RfQdqe8Glu, 05d0b0c4e034ad04e529e756a401e8204034a298
+patricia24_Bhi, 0AA6wBDH7m, 6ea5fa172b8a7790fcd88475462178ae2a368e7f
+daniela24_Bhi, R5kpLhvR-6, f35274c44230ddbc7c61ae428abbb52815839ffd

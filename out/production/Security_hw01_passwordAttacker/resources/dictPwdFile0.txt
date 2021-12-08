@@ -1,0 +1,11 @@
+Each line below contains username, salt and hashed password.
+james0_TzD, vbD-W_1oNI, e3aa7756708d5611a9395be667477f0728314632
+linda0_TzD, 3pmAkE6tZQ, 36f6cabf87b5e55cbc5ee1f80dd6bb2d575f2bdb
+sofia0_TzD, 5bQ6XI0NbK, 41f1a2f805635681ab0292d57c5a8a7069aef6b6
+santiago0_TzD, rq0BuJIeVG, dff9477665a3a9448b1e48ae4b26edcc596f633a
+isabella0_TzD, paoSXfsebC, 90e7d31310faec2143667a52d98a6887ff0dc407
+diego0_TzD, X0dwHGybI8, 91b21f66503f7e942832824327e53b929ddd5841
+robert0_TzD, AHDIOU51r1, 3a5830fa63426759726af8f6ed0257bfcd59a33c
+mary0_TzD, TAgCjPnVNe, b7633caff4374afc3bdd7a9964d5a32a58555202
+patricia0_TzD, vesyKayytx, a68a054840e47dd42a793aa02bf716a1d18d79a1
+daniela0_TzD, g3PgYgYAix, d8e23ac702aea77e5390574bbb5296f058c1d609

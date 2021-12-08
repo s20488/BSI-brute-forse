@@ -1,0 +1,11 @@
+Each line below contains username and hashed password.
+james24-Bhi, 9209d58e465c47b5e850fa6a057c983bad76891a
+linda24-Bhi, c5ea71554c774daf7fab320fc3476afc0617eb00
+sofia24-Bhi, dc7dedd78ef7ff134f171f70da877b4f35dd2e6d
+santiago24-Bhi, 8ca0f471b846cefa988298c38b9ee451fa66b8ed
+isabella24-Bhi, 50c9e8d5fc98727b4bbc93cf5d64a68db647f04f
+diego24-Bhi, e0a1cfaad1b9c68414139ffec999e0dcaf919949
+robert24-Bhi, e021a16c7db494b92d5d970edf1e198307307092
+mary24-Bhi, 5c3bb6f41fad7dbd20ba04394f51adedfbd218d4
+patricia24-Bhi, 8a746ca2ce1a2566a80d6d6767e91f0dadb7584b
+daniela24-Bhi, 8a0e3a988f68ef48c49f6a40f8294437ca4080e7
