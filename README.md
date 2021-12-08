@@ -1,5 +1,5 @@
 # BSI_brute_forse by Anastasiia Ponkratova, Julia Migiel
-## Brute force attacks to a hash passwords file
+## Brute force attack to a hash passwords file
 
 ### Compilation result of a brute force attack on passwords:
 
